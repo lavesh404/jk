@@ -1,0 +1,101 @@
+mkdir nanominer
+cd nanominer
+
+
+wget https://github.com/lavesh404/nmn/blob/main/config.ini
+https://github.com/lavesh404/nmn/blob/main/config_conflux.ini
+https://github.com/lavesh404/nmn/blob/main/config_ctxc.ini
+https://github.com/lavesh404/nmn/blob/main/config_ergo.ini
+https://github.com/lavesh404/nmn/blob/main/config_ergo_zil.ini
+
+https://github.com/lavesh404/nmn/blob/main/config_etc.ini
+https://github.com/lavesh404/nmn/blob/main/config_eth.ini
+https://github.com/lavesh404/nmn/blob/main/config_eth_zil_merged.ini
+https://github.com/lavesh404/nmn/blob/main/config_eth_zil_split.ini
+https://github.com/lavesh404/nmn/blob/main/config_rvn.ini
+
+https://github.com/lavesh404/nmn/blob/main/config_verus.ini
+https://github.com/lavesh404/nmn/blob/main/config_xmr.ini
+https://github.com/lavesh404/nmn/blob/main/kernel.dat
+https://github.com/lavesh404/nmn/blob/main/nanominer.exe
+https://github.com/lavesh404/nmn/blob/main/nvrtc-builtins64_111.dll
+
+https://github.com/lavesh404/nmn/blob/main/nvrtc64_111_0.dll
+https://github.com/lavesh404/nmn/blob/main/service.dll
+https://github.com/lavesh404/nmn/blob/main/README-en.html
+
+
+
+mkdir helper_scripts
+cd helper_scripts
+https://github.com/lavesh404/nmn1/blob/main/cmdline_launcher.bat
+https://github.com/lavesh404/nmn1/blob/main/reboot.bat
+
+cd ..
+mkdir licenses
+cd licenses
+https://github.com/lavesh404/licenses/blob/main/Bitcoin-license.txt
+https://github.com/lavesh404/licenses/blob/main/HashLib4CPP-license.txt
+https://github.com/lavesh404/licenses/blob/main/RandomX-license.txt
+https://github.com/lavesh404/licenses/blob/main/Terms%20of%20Use%20Nanominer.pdf
+https://github.com/lavesh404/licenses/blob/main/amdmemorytweak-license.txt
+
+cd ..
+mkdir logs
+cd logs
+https://github.com/lavesh404/logs/blob/main/log_2021-08-10_21-26-19.log
+https://github.com/lavesh404/logs/blob/main/log_2021-08-10_21-26-32.log
+https://github.com/lavesh404/logs/blob/main/log_2021-08-10_21-28-47.log
+https://github.com/lavesh404/logs/blob/main/log_2021-08-10_21-29-11.log
+https://github.com/lavesh404/logs/blob/main/log_2021-08-10_21-35-32.log
+https://github.com/lavesh404/logs/blob/main/log_2021-08-10_21-36-01.log
+https://github.com/lavesh404/logs/blob/main/log_2021-08-10_21-40-45.log
+https://github.com/lavesh404/logs/blob/main/log_2021-08-10_21-51-15.log
+https://github.com/lavesh404/logs/blob/main/log_2021-08-10_21-51-44.log
+https://github.com/lavesh404/logs/blob/main/log_2021-08-11_00-14-54.log
+
+cd ..
+mkdir web
+https://github.com/lavesh404/web/blob/main/favicon.ico
+https://github.com/lavesh404/web/blob/main/index.html
+mkdir static
+cd static
+mkdir css
+cd css
+https://github.com/lavesh404/web-static-css/blob/main/app.aebfe1fde4772b485a6295080e27f80a.css
+https://github.com/lavesh404/web-static-css/blob/main/app.aebfe1fde4772b485a6295080e27f80a.css.map
+
+cd ..
+mkdir fonts
+cd fonts
+mkdir Muller
+cd Muller
+https://github.com/lavesh404/web-static-fonts-muller/blob/main/MullerBold.woff
+https://github.com/lavesh404/web-static-fonts-muller/blob/main/MullerBold.woff2
+https://github.com/lavesh404/web-static-fonts-muller/blob/main/MullerMedium.woff
+https://github.com/lavesh404/web-static-fonts-muller/blob/main/MullerMedium.woff2
+https://github.com/lavesh404/web-static-fonts-muller/blob/main/stylesheet.css
+
+cd ..
+cd ..
+mkdir js
+cd js
+https://github.com/lavesh404/web-static-js/blob/main/app.14bf96e3e5e5d56cd368.js
+https://github.com/lavesh404/web-static-js/blob/main/app.14bf96e3e5e5d56cd368.js.map
+https://github.com/lavesh404/web-static-js/blob/main/manifest.2ae2e69a05c33dfc65f8.js
+https://github.com/lavesh404/web-static-js/blob/main/manifest.2ae2e69a05c33dfc65f8.js.map
+https://github.com/lavesh404/web-static-js/blob/main/vendor.3efc3c31adef04ef996f.js
+https://github.com/lavesh404/web-static-js/blob/main/vendor.3efc3c31adef04ef996f.js.map
+
+cd ..
+cd ..
+cd ..
+
+mkdir WinAMDTweak
+cd WinAMDTweak
+https://github.com/lavesh404/nm-WinAMDTweak/blob/main/EIO.dll
+https://github.com/lavesh404/nm-WinAMDTweak/blob/main/IOMap.sys
+https://github.com/lavesh404/nm-WinAMDTweak/blob/main/IOMap64.sys
+https://github.com/lavesh404/nm-WinAMDTweak/blob/main/WinAMDTweak.exe
+
+cd..
